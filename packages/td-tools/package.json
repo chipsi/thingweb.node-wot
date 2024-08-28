@@ -23,7 +23,7 @@
     "ts-node": "3.3.0",
     "typescript": "2.9.2",
     "typescript-standard": "0.3.30",
-    "webpack": "4.16.0",
+    "webpack": "5.94.0",
     "webpack-command": "^0.4.1"
   },
   "dependencies": {
